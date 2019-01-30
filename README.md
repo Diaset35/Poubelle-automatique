@@ -20,7 +20,7 @@ cliquer sur la photo au dessus pour lire la video
 
 # Liste des composants
 + 1 Arduino UNO
-+ 1 cable Arduino
++ 1 cable usb Arduino/9v Battery with Snap-on connecteur clip
 + 1 Bread Board
 + 1 Ultrasonic Sensor 
 + 1 Servo Motor
