@@ -9,4 +9,5 @@ cliquer sur la photo au dessus pour lire la video
 
 
 # Schema du montage
+![poubelle](montage-trash.jpg)
 
