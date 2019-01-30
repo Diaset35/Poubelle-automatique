@@ -11,3 +11,13 @@ cliquer sur la photo au dessus pour lire la video
 # Schema du montage
 ![poubelle](montage-trash.jpg)
 
+
+# Bibliothèque a utiliser
+#include <Servo.h>
+#include <HCSR04.h>
+
+
+# Liste des composants
++ 1 Arduino UNO
++ 1 cable Arduino
++ 1 Bread Board
